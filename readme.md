@@ -13,6 +13,6 @@
   * Shows nearest store locations on the maps with A-Z marker pins
   * Automatically chooses appropriate Map Zoom level to fit all locations on the map
 
-##DEMO SITE: http://tbd
+##DEMO SITE: [optimax.apphb.com](http://optimax.apphb.com/)
 
 Inspired by original jQuery Store Locator plugin by Bjorn Holine (http://www.bjornblog.com/web/jquery-store-locator-plugin); this is a github fork of his repo located here: github.com/bjorn2404/jQuery-Store-Locator-Plugin
