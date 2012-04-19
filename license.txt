@@ -1,9 +1,5 @@
-Copyright (C) 2012 Ruslan Schelkunov
+Copyright (C) 2012 Bjorn Holine, Ruslan Schelkunov
 jQuery Store Locator Plugin 2 - Complete jQuery Store Locator with Google Maps API, Google Distance Matrix API, HTML5 GeoLocation & Google Maps KML file as data source.
-Inspired by original jQuery Store Locator Plugin by Bjorn Holine (http://www.bjornblog.com)
-
-GitHub repo: git@github.com:ruslanss/jQuery-Store-Locator-Plugin-2.git
-Demo: http://optimax.apphb.com/
 
 Released under the MIT license:
 

@@ -3,221 +3,10 @@
 <Document>
   <name>Optimax</name>
   <description><![CDATA[Optimax Laser Eye Surgery clinic locations in United Kingdom (plain text version)]]></description>
-  <Style id="style20">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style24">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style16">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style26">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style18">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style23">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style27">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style21">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style28">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style30">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style11">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style3">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style12">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style13">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style4">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style1">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style10">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style14">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style9">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style5">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style7">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style6">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style29">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style17">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style22">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style8">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style25">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style15">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style19">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style2">
-    <IconStyle>
-      <Icon>
-        <href></href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Placemark>
     <name>Optimax Laser Eye Surgery - Aberdeen</name>
     <Snippet>Optimax Laser Eye Clinic2 Golden SquareCity Centre, Aberdeen AB10 1RD0870 514 33</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Clinic - Aberdeen<br>2 Golden Square<br>City Centre, Aberdeen AB10 1RD<br>0870 514 3314</div>]]></description>
-    <styleUrl>#style20</styleUrl>
     <Point>
       <coordinates>-2.104521,57.145737,0.000000</coordinates>
     </Point>
@@ -226,7 +15,6 @@
     <name>Optimax Laser Eye Surgery - Belfast</name>
     <Snippet>Optimax Laser Eye Surgery -&amp;nbsp;Belfast&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;438 Li</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Belfast         <br>438 Lisburn Road<br>Belfast<br>BT9 6GR<br>0800 093 1110</div>]]></description>
-    <styleUrl>#style24</styleUrl>
     <Point>
       <coordinates>-5.962432,54.570358,0.000000</coordinates>
     </Point>
@@ -235,7 +23,6 @@
     <name>Optimax Laser Eye Surgery - Birmingham</name>
     <Snippet>Optimax Laser Eye Surgery - Birmingham96 Bristol RoadBirmingham, West Midlands B</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Birmingham<br>96 Bristol Road<br>Birmingham, West Midlands B5 7XJ<br>0121 440 0976</div>]]></description>
-    <styleUrl>#style16</styleUrl>
     <Point>
       <coordinates>-1.903810,52.462627,0.000000</coordinates>
     </Point>
@@ -244,7 +31,6 @@
     <name>Optimax Laser Eye Surgery - Brighton</name>
     <Snippet>Optimax Laser Eye Surgery - Brighton179 Church RoadTown Centre, Hove BN3 2AB0127</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Brighton<br>179 Church Road<br>Town Centre, Hove BN3 2AB<br>01273 329075</div>]]></description>
-    <styleUrl>#style26</styleUrl>
     <Point>
       <coordinates>-0.177352,50.828655,0.000000</coordinates>
     </Point>
@@ -253,7 +39,6 @@
     <name>Optimax Laser Eye Surgery - Bristol</name>
     <Snippet>Optimax Laser Eye Surgery - Bristol13 Clare StreetBristol, Avon BS1 1XH0117 925 </Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Bristol<br>13 Clare Street<br>Bristol, Avon BS1 1XH<br>0117 925 8099</div>]]></description>
-    <styleUrl>#style18</styleUrl>
     <Point>
       <coordinates>-2.596170,51.453842,0.000000</coordinates>
     </Point>
@@ -262,7 +47,6 @@
     <name>Optimax Laser Eye Surgery - Cardiff</name>
     <Snippet>Optimax Laser Eye Surgery - Cardiff120 Temple Court, 13a Cathedral RoadCardiff C</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Cardiff<br>120 Temple Court, 13a Cathedral Road<br>Cardiff CF11 9HA<br>029 2078 6480</div>]]></description>
-    <styleUrl>#style23</styleUrl>
     <Point>
       <coordinates>-3.190589,51.482582,0.000000</coordinates>
     </Point>
@@ -271,7 +55,6 @@
     <name>Optimax Laser Eye Surgery - Croydon</name>
     <Snippet>Optimax Laser Eye Clinic103 High StCroydon, Surrey CR0 1QG020 8686 6141</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Clinic - Croydon<br>103 High St<br>Croydon, Surrey CR0 1QG<br>020 8686 6141</div>]]></description>
-    <styleUrl>#style27</styleUrl>
     <Point>
       <coordinates>-0.099921,51.370468,0.000000</coordinates>
     </Point>
@@ -280,7 +63,6 @@
     <name>Optimax Laser Eye Surgery - Glasgow</name>
     <Snippet>Optimax Laser Eye Surgery - Glasgow18 Charing Cross MansionsGlasgow G3 6UJ0141 3</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Glasgow<br>18 Charing Cross Mansions<br>Glasgow G3 6UJ<br>0141 353 1305</div>]]></description>
-    <styleUrl>#style21</styleUrl>
     <Point>
       <coordinates>-4.270573,55.866688,0.000000</coordinates>
     </Point>
@@ -289,7 +71,6 @@
     <name>Optimax Laser Eye Surgery - Guildford</name>
     <Snippet>Optimax Laser Eye Surgery -&amp;nbsp;Guildford&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nb</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Guildford              <br>8 Haydon Place<br>Guildford<br>GU1 4LL<br>0800 093 1110</div>]]></description>
-    <styleUrl>#style28</styleUrl>
     <Point>
       <coordinates>-0.572819,51.237263,0.000000</coordinates>
     </Point>
@@ -298,7 +79,6 @@
     <name>Optimax Laser Eye Surgery - Hull</name>
     <Snippet>Optimax Laser Eye Surgery - HullNightingale House, Ferriby Road, HessleHull HU13</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Hull<br>Nightingale House, <br>Ferriby Road, Hessle<br>Hull HU13 0QF<br>01482 640900</div>]]></description>
-    <styleUrl>#style30</styleUrl>
     <Point>
       <coordinates>-0.438295,53.722858,0.000000</coordinates>
     </Point>
@@ -307,7 +87,6 @@
     <name>Optimax Laser Eye Surgery - Ipswich</name>
     <Snippet>Optimax Laser Eye Surgery - Ipswich18 Lloyds AvenueIpswich, Suffolk IP1 3HD01473</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Ipswich<br>18 Lloyds Avenue<br>Ipswich, Suffolk IP1 3HD<br>01473 288088</div>]]></description>
-    <styleUrl>#style11</styleUrl>
     <Point>
       <coordinates>1.153164,52.058540,0.000000</coordinates>
     </Point>
@@ -316,7 +95,6 @@
     <name>Optimax Laser Eye Surgery - Leeds</name>
     <Snippet>Optimax Laser Eye Surgery - Leeds147 The HeadrowLeeds, LS1 5RB0113 234 2898</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Leeds<br>147 The Headrow<br>Leeds, LS1 5RB<br>0113 234 2898</div>]]></description>
-    <styleUrl>#style3</styleUrl>
     <Point>
       <coordinates>-1.548453,53.799458,0.000000</coordinates>
     </Point>
@@ -325,7 +103,6 @@
     <name>Optimax Laser Eye Surgery - Leicester</name>
     <Snippet>Optimax Laser Eye Surgery - Leicester171 Charles StreetLeicester, LE1 1LA0116 25</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Leicester<br>171 Charles Street<br>Leicester, LE1 1LA<br>0116 255 3770</div>]]></description>
-    <styleUrl>#style12</styleUrl>
     <Point>
       <coordinates>-1.127796,52.633389,0.000000</coordinates>
     </Point>
@@ -334,7 +111,6 @@
     <name>Optimax Laser Eye Surgery - Liverpool</name>
     <Snippet>Optimax Laser Eye Surgery - Liverpool3 Water StreetCity Centre, Liverpool L2 0RD</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Liverpool<br>3 Water Street<br>City Centre, Liverpool L2 0RD<br>0151 236 9969</div>]]></description>
-    <styleUrl>#style13</styleUrl>
     <Point>
       <coordinates>-2.991983,53.406498,0.000000</coordinates>
     </Point>
@@ -343,7 +119,6 @@
     <name>Optimax Laser Eye Surgery - London - Canary Wharf</name>
     <Snippet>Optimax Laser Eye Surgery - Canary Wharf25 Canada Square Canary WharfLondon, E14</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Canary Wharf<br>25 Canada Square Canary Wharf<br>London, E14 5LQ<br>020 7038 8556</div>]]></description>
-    <styleUrl>#style4</styleUrl>
     <Point>
       <coordinates>-0.018141,51.504749,0.000000</coordinates>
     </Point>
@@ -352,7 +127,6 @@
     <name>Optimax Laser Eye Surgery - London - Chiswick</name>
     <Snippet>Optimax Laser Eye Surgery -&amp;nbsp;Chiswick110 Chiswick High RoadLondonW4 1PU0800 </Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Chiswick<br>110 Chiswick High Road<br>London<br>W4 1PU<br>0800 093 1110</div>]]></description>
-    <styleUrl>#style1</styleUrl>
     <Point>
       <coordinates>-0.251980,51.492859,0.000000</coordinates>
     </Point>
@@ -361,7 +135,6 @@
     <name>Optimax Laser Eye Surgery - London -  Finchley Road</name>
     <Snippet>Optimax Laser Eye Surgery - London128 Finchley RoadLondon, Greater London NW3 5H</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - London<br>128 Finchley Road<br>London, Greater London NW3 5HT<br>020 7431 6708</div>]]></description>
-    <styleUrl>#style10</styleUrl>
     <Point>
       <coordinates>-0.179985,51.547619,0.000000</coordinates>
     </Point>
@@ -370,7 +143,6 @@
     <name>Optimax Laser Eye Surgery - London - Liverpool Street</name>
     <Snippet>Optimax Laser Eye Surgery - Liverpool Street105 BishopsgateLondon, Greater Londo</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Liverpool Street<br>105 Bishopsgate<br>London, Greater London EC2M 3UE<br>020 7638 7074</div>]]></description>
-    <styleUrl>#style14</styleUrl>
     <Point>
       <coordinates>-0.081618,51.516376,0.000000</coordinates>
     </Point>
@@ -379,7 +151,6 @@
     <name>Optimax Laser Eye Surgery - London - Victoria</name>
     <Snippet>Optimax Laser Eye Surgery -&amp;nbsp;VictoriaPortland House,Bressenden PlaceLondonSW</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Victoria<br>Portland House,Bressenden Place<br>London<br>SW1E 5RS<br>0800 093 1110</div>]]></description>
-    <styleUrl>#style9</styleUrl>
     <Point>
       <coordinates>-0.141706,51.497547,0.000000</coordinates>
     </Point>
@@ -388,7 +159,6 @@
     <name>Optimax Laser Eye Surgery - Maidstone</name>
     <Snippet>Optimax Laser Eye Surgery - Maidstone&amp;nbsp; &amp;nbsp;&amp;nbsp;24-25 High StreetMaidsto</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Maidstone    <br>24-25 High Street<br>Maidstone<br>ME14 1JF<br>0800 093 1110</div>]]></description>
-    <styleUrl>#style5</styleUrl>
     <Point>
       <coordinates>0.520873,51.272930,0.000000</coordinates>
     </Point>
@@ -397,7 +167,6 @@
     <name>Optimax Laser Eye Surgery - Manchester</name>
     <Snippet>Optimax Laser Eye Surgery - Manchester1 Albert SquareCity Centre, Manchester M2 </Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Manchester<br>1 Albert Square<br>City Centre, Manchester M2 3FU<br>0161 832 7153</div>]]></description>
-    <styleUrl>#style7</styleUrl>
     <Point>
       <coordinates>-2.249028,53.478359,0.000000</coordinates>
     </Point>
@@ -406,7 +175,6 @@
     <name>Optimax Laser Eye Surgery - Milton Keynes</name>
     <Snippet>Optimax Laser Eye Surgery - Milton KeynesBrooklyn House, 311 Avebury Boulevard, </Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Milton Keynes<br>Brooklyn House, 311 Avebury Boulevard, The Hub<br>Milton Keynes MK9 2GA<br>01908 394071</div>]]></description>
-    <styleUrl>#style6</styleUrl>
     <Point>
       <coordinates>-0.762443,52.036983,0.000000</coordinates>
     </Point>
@@ -415,7 +183,6 @@
     <name>Optimax Laser Eye Surgery - Newcastle</name>
     <Snippet>Optimax Laser Eye Surgery - Newcastle2-4 Mosley StreetCity Centre, Newcastle upo</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Newcastle<br>2-4 Mosley Street<br>City Centre, Newcastle upon Tyne NE1 1DG<br>0191 232 3469</div>]]></description>
-    <styleUrl>#style29</styleUrl>
     <Point>
       <coordinates>-1.609696,54.971054,0.000000</coordinates>
     </Point>
@@ -424,7 +191,6 @@
     <name>Optimax Laser Eye Surgery - Newton Abbot</name>
     <Snippet>Optimax Laser Eye Surgery - Newton Abbot34 - 42 Queen StreetNewton AbbotTQ12 2EH</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Newton Abbot<br>34 - 42 Queen Street<br>Newton Abbot<br>TQ12 2EH<br>0800 093 1110</div>]]></description>
-    <styleUrl>#style17</styleUrl>
     <Point>
       <coordinates>-3.607851,50.530716,0.000000</coordinates>
     </Point>
@@ -433,7 +199,6 @@
     <name>Optimax Laser Eye Surgery - Nottingham</name>
     <Snippet>Optimax Laser Eye Surgery - Nottingham26-28 Heathcoat StreetCity Centre, Notting</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Nottingham<br>26-28 Heathcoat Street<br>City Centre, Nottingham NG1 3AA<br>0115 908 1580</div>]]></description>
-    <styleUrl>#style22</styleUrl>
     <Point>
       <coordinates>-1.143023,52.954594,0.000000</coordinates>
     </Point>
@@ -442,7 +207,6 @@
     <name>Optimax Laser Eye Surgery - Peterborough</name>
     <Snippet>Optimax Laser Eye Surgery - Peterborough172 Lincoln RoadTown Centre, Peterboroug</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Peterborough<br>172 Lincoln Road<br>Town Centre, Peterborough PE1 2NW<br>01733 349068</div>]]></description>
-    <styleUrl>#style8</styleUrl>
     <Point>
       <coordinates>-0.245267,52.583324,0.000000</coordinates>
     </Point>
@@ -451,7 +215,6 @@
     <name>Optimax Laser Eye Surgery - Reading</name>
     <Snippet>Optimax Laser Eye Surgery - Reading108A Friar StreetReading, RG1 1EP0118 956 799</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Reading<br>108A Friar Street<br>Reading, RG1 1EP<br>0118 956 7990</div>]]></description>
-    <styleUrl>#style25</styleUrl>
     <Point>
       <coordinates>-0.974770,51.456627,0.000000</coordinates>
     </Point>
@@ -460,7 +223,6 @@
     <name>Optimax Laser Eye Surgery - Southampton</name>
     <Snippet>Optimax Laser Eye Surgery - Southampton16-17 Kings Park RoadCity Centre, Southam</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Southampton<br>16-17 Kings Park Road<br>City Centre, Southampton SO15 2AT<br>023 8063 4828</div>]]></description>
-    <styleUrl>#style15</styleUrl>
     <Point>
       <coordinates>-1.401966,50.911560,0.000000</coordinates>
     </Point>
@@ -469,7 +231,6 @@
     <name>Optimax Laser Eye Surgery - Southend-on-Sea</name>
     <Snippet>Optimax Laser Eye Surgery - Southend-on-Sea108-110 Southchurch RoadSouthend-on-S</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - Southend-on-Sea<br>108-110 Southchurch Road<br>Southend-on-Sea SS1 2LX<br>01702 444900</div>]]></description>
-    <styleUrl>#style19</styleUrl>
     <Point>
       <coordinates>0.720699,51.540092,0.000000</coordinates>
     </Point>
@@ -478,7 +239,6 @@
     <name>Optimax Laser Eye Surgery - York</name>
     <Snippet>Optimax Laser Eye Surgery -&amp;nbsp; York23 FossgateYorkYO1 9TA 0800 093 1110</Snippet>
     <description><![CDATA[<div dir="ltr">Optimax Laser Eye Surgery - York<br>23 Fossgate<br>York YO1 9TA<br>0800 093 1110</div>]]></description>
-    <styleUrl>#style2</styleUrl>
     <Point>
       <coordinates>-1.078518,53.958282,0.000000</coordinates>
     </Point>

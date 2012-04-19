@@ -11,9 +11,6 @@
             'storeLimit': 10,
             'distanceAlert': 60,
             'xmlLocation': 'data/stores.xml',
-            'listColor1': 'ffffff',
-            'listColor2': 'eeeeee',
-            'bounceMarker': true,
             'addressErrorMsg': 'Please enter valid UK address address or postcode',
             'googleDistanceMatrixDestinationLimit': 25,
             'defaultLat': 52.3038165,
@@ -22,7 +19,6 @@
         }, options);
 
         return this.each(function () {
-
             var $this = $(this);
 
             // global array of shop objects
@@ -32,7 +28,6 @@
             // Calculate distances from passed in origin to all locations in the [_locationset] array
             // using Google Maps Distance Matrix Service https://developers.google.com/maps/documentation/javascript/reference#DistanceMatrixService
             var GeoCodeCalc = {};
-            GeoCodeCalc.Countdown = 0;
             GeoCodeCalc.CalcDistanceGoogle = function (origin, callback) {
                 var destCoordArr = new Array();
                 var subFunctionTokens = [];
@@ -66,12 +61,7 @@
                           var results = response.rows[0].elements;
                           $.each(results, function (j, val) {
                               if (results[j].status != "ZERO_RESULTS") {
-                                  if (_locationset[startIndex + j]) {
-                                      _locationset[startIndex + j].Distance = GoogleMapDistanceTextToNumber(results[j].distance.text);
-                                  }
-                                  else {
-                                      console.error("undefined: " + "startIndex=" + startIndex + " j=" + j + " isLast=" + (startIndex + settings.googleDistanceMatrixDestinationLimit >= _locationset.length));
-                                  }
+                                  _locationset[startIndex + j].Distance = GoogleMapDistanceTextToNumber(results[j].distance.text);
                               }
                           });
 
@@ -150,7 +140,6 @@
 
                     //Replace spaces in user input
                     userinput = formatGoogleMapUrlString(userinput);
-
                 });
             });
 
@@ -163,7 +152,7 @@
                         var latlng = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
 
                         g.geocodeLatLng(latlng, function (address) {
-                            if (address != null) {
+                            if (address) {
                                 showAddress(address);
                             } else {
                                 //Unable to geocode
@@ -185,6 +174,7 @@
 
             function showAddress(address) {
                 $("#lblAddress").html(address.formatted_address);
+                // find a postcode and show it in the address textbox
                 $.each(address.address_components, function (i, val) {
                     if (val.types[0] == "postal_code") {
                         $("#address").val(val.short_name);
@@ -219,20 +209,18 @@
                         url: settings.xmlLocation,
                         dataType: "xml",
                         success: function (xml) {
-
                             _locationset = new Array();
-
                             $(xml).find('Placemark').each(function (i) {
-
                                 var shop = {
                                     Name: $(this).find('name').text(),
                                     //Take the lat lng from the user, geocoded above
-                                    LatLng: new google.maps.LatLng($(this).find('coordinates').text().split(",")[1], ($(this).find('coordinates').text().split(",")[0])),
+                                    LatLng: new google.maps.LatLng(
+                                        $(this).find('coordinates').text().split(",")[1],
+                                        $(this).find('coordinates').text().split(",")[0]),
                                     Description: $(this).find('description').text(),
                                     Marker: null,
                                     Distance: null
                                 };
-
                                 _locationset.push(shop);
                             });
 
@@ -284,6 +272,7 @@
                                             listClick(letter, location);
                                         });
 
+                                        // zoom in/out to show all markers
                                         map.fitBounds(bounds);
 
                                         function listClick(letter, shop) {
@@ -341,12 +330,10 @@
                                                 })
                                             }
                                         };
-
                                     });
                                 }
                             });
                         }
-
                     });
                 });
             }
